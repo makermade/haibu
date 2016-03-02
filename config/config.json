@@ -1,0 +1,8 @@
+{
+  "directories": {
+    "apps" : "/data/local/haibu/apps",
+    "packages" : "/data/local/haibu/packages",
+    "autostart" : "/data/local/haibu/autostart",
+    "tmp" : "/data/local/haibu/tmp"
+  }
+}
