@@ -17,5 +17,4 @@ test/data/repositories/elijah-*
 test/data/repositories/charlie-*
 *.log
 *.out
-config.json
 config/cache.json
